@@ -45,8 +45,14 @@
 
 ``` python
 
+# 设置变量
+a = 0
 
-
-
+# 设置两层循环
+for x in range(10) :
+    for y in range(10) :
+        print (f'{a:0>2d} ' ,end ='')
+        a += 1
+    print ('\n')
 
 ```

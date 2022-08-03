@@ -1,3 +1,18 @@
+# Python-draw
+
+介绍python在绘图方面的用法。
+
+## 样例
+
+[问题1](https://songxiao1018.github.io/python-draw/question1)输出指定正方形
+
+
+
+
+
+
+
+<!--
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/songxiao1018/python-draw/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +50,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-->
